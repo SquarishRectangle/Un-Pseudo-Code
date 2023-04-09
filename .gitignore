@@ -8,5 +8,7 @@ setup/*
 !linux/
 linux/*
 !linux/upc
+!.devcontainer.json
+!Dockerfile
 !license.txt
 !README.md
