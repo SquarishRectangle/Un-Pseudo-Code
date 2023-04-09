@@ -7,6 +7,6 @@ setup/*
 !Setup/UPC Setup.exe
 !linux/
 linux/*
-!linux/upc.bin
+!linux/upc
 !license.txt
 !README.md

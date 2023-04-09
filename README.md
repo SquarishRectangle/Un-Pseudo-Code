@@ -1,6 +1,6 @@
 # Un-Pseudo Code Language Specification
 ## Introduction
-Un-Pseudo Code (UNC) is an interpreted language based on the Pseudo Code used by College Board in their AP Computer Science Principals course. This document is adapted from the [CSP Exam Reference Sheet](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-exam-reference-sheet.pdf) with changes to improve the user experience on a keyboard. 
+Un-Pseudo Code (UPC) is an interpreted language based on the Pseudo Code used by College Board in their AP Computer Science Principals course. This document is adapted from the [CSP Exam Reference Sheet](https://apcentral.collegeboard.org/media/pdf/ap-computer-science-principles-exam-reference-sheet.pdf) with changes to improve the user experience on a keyboard. 
 
 
 ## Assignment, Display, and Input
