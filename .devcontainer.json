@@ -1,1 +1,6 @@
-{"build": { "dockerfile": "Dockerfile" }}
+{
+    "postCreateCommand": "chmod +x /workspaces/Un-Pseudo-Code/linux/upc",
+    "remoteEnv": {
+        "PATH": "${containerEnv:PATH}:/workspaces/Un-Pseudo-Code/linux"
+    }
+}
