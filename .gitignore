@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!examples/
+!setup/
+setup/*
+!Setup/UPC Setup.exe
+!linux/
+linux/*
+!linux/upc.bin
+!license.txt
+!README.md
